@@ -1,0 +1,20 @@
+feature,description
+passing_yards_avg_last_3,Mean of previous 3 games for passing_yards
+passing_tds_avg_last_3,Mean of previous 3 games for passing_tds
+passing_interceptions_avg_last_3,Mean of previous 3 games for passing_interceptions
+passing_epa_avg_last_3,Mean of previous 3 games for passing_epa
+rushing_yards_avg_last_3,Mean of previous 3 games for rushing_yards
+rushing_tds_avg_last_3,Mean of previous 3 games for rushing_tds
+rushing_epa_avg_last_3,Mean of previous 3 games for rushing_epa
+receiving_yards_avg_last_3,Mean of previous 3 games for receiving_yards
+def_sacks_avg_last_3,Mean of previous 3 games for def_sacks
+def_interceptions_avg_last_3,Mean of previous 3 games for def_interceptions
+def_tds_avg_last_3,Mean of previous 3 games for def_tds
+fg_pct_avg_last_3,Mean of previous 3 games for fg_pct
+pt_net_yards_avg_last_3,Mean of previous 3 games for pt_net_yards
+fumbles_lost_total_avg_last_3,Mean of previous 3 games for fumbles_lost_total
+total_offensive_yards_avg_last_3,Mean of previous 3 games for total_offensive_yards
+total_team_tds_avg_last_3,Mean of previous 3 games for total_team_tds
+turnover_margin_avg_last_3,Mean of previous 3 games for turnover_margin
+is_home,"1 if team is home, otherwise 0"
+prior_win_rate,Team's win rate before this game
