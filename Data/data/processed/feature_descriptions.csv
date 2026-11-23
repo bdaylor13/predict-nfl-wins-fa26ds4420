@@ -10,11 +10,11 @@ receiving_yards_avg_last_3,Mean of previous 3 games for receiving_yards
 def_sacks_avg_last_3,Mean of previous 3 games for def_sacks
 def_interceptions_avg_last_3,Mean of previous 3 games for def_interceptions
 def_tds_avg_last_3,Mean of previous 3 games for def_tds
-fg_pct_avg_last_3,Mean of previous 3 games for fg_pct
 pt_net_yards_avg_last_3,Mean of previous 3 games for pt_net_yards
 fumbles_lost_total_avg_last_3,Mean of previous 3 games for fumbles_lost_total
 total_offensive_yards_avg_last_3,Mean of previous 3 games for total_offensive_yards
 total_team_tds_avg_last_3,Mean of previous 3 games for total_team_tds
 turnover_margin_avg_last_3,Mean of previous 3 games for turnover_margin
+fg_pct_last_3,Field goals made / attempted over the previous 3 games
 is_home,"1 if team is home, otherwise 0"
-prior_win_rate,Team's win rate before this game
+prior_win_rate,Team's win rate so far this season before this game (0.5 in week 1)
